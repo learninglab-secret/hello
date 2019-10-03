@@ -6,6 +6,9 @@
 45 seconds to get to heroku.
 
 (just a test from the fellows account.)
+
+having some issues if favicon
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NDg2NDEyOCwtOTA0MTkwMzU5XX0=
+eyJoaXN0b3J5IjpbLTE3NzQ2MzI3NTAsMTM4NDg2NDEyOCwtOT
+A0MTkwMzU5XX0=
 -->
