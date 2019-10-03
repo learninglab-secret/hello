@@ -38,17 +38,17 @@ router.get('/md/:id', async function (req, res, next) {
     });
   });
 });
-
-router.get('/:id', async function (req, res, next) {
-  fs.readFile(path.join(ROOT_DIR, 'data/markdown', `${req.params.id}.md`), {encoding: 'utf-8'}, (err, data) => {
-    if (err) {res.send("check back in a minute")};
-    console.log(data);
-    res.render("simple-markdown",  {
-      title: `markdown for ${req.params.id}`,
-      date: moment().format("YYYYMMDD"),
-      convertedMarkdown: marked(data)
-    });
-  });
-});
+// 
+// router.get('/:id', async function (req, res, next) {
+//   fs.readFile(path.join(ROOT_DIR, 'data/markdown', `${req.params.id}.md`), {encoding: 'utf-8'}, (err, data) => {
+//     if (err) {res.send("check back in a minute")};
+//     console.log(data);
+//     res.render("simple-markdown",  {
+//       title: `markdown for ${req.params.id}`,
+//       date: moment().format("YYYYMMDD"),
+//       convertedMarkdown: marked(data)
+//     });
+//   });
+// });
 
 module.exports = router;
