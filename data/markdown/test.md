@@ -8,7 +8,9 @@
 (just a test from the fellows account.)
 
 having some issues if favicon
+
+this is breaking constantly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQ2MzI3NTAsMTM4NDg2NDEyOCwtOT
-A0MTkwMzU5XX0=
+eyJoaXN0b3J5IjpbMTc0NTc5OTkxNiwtMTc3NDYzMjc1MCwxMz
+g0ODY0MTI4LC05MDQxOTAzNTldfQ==
 -->
