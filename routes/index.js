@@ -6,6 +6,7 @@ var marked = require('marked');
 var fs = require('fs');
 var path = require('path');
 var moment = require('moment');
+
 /* GET home page. */
 router.get('/', function(req, res, next) {
   fs.readdir('../markdown', 'utf-8', function(err, data){
@@ -26,7 +27,7 @@ router.get('/airtable/:id', async function(req, res, next) {
   res.render('test', { title: "test", data: JSON.stringify(records, null, 4)});
 });
 
-router.get('/markdown/:id', async function (req, res, next) {
+router.get('/:id', async function (req, res, next) {
   fs.readFile(path.join(ROOT_DIR, 'data/markdown', `${req.params.id}.md`), {encoding: 'utf-8'}, (err, data) => {
     if (err) throw err;
     console.log(data);
