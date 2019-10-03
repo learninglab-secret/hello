@@ -27,7 +27,7 @@ router.get('/airtable/:id', async function(req, res, next) {
   res.render('test', { title: "test", data: JSON.stringify(records, null, 4)});
 });
 
-router.get('/:id', async function (req, res, next) {
+router.get('/md/:id', async function (req, res, next) {
   fs.readFile(path.join(ROOT_DIR, 'data/markdown', `${req.params.id}.md`), {encoding: 'utf-8'}, (err, data) => {
     if (err) {res.send("check back in a minute")};
     console.log(data);
