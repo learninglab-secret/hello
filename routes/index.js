@@ -3,10 +3,15 @@ var router = express.Router();
 var Airtable = require('airtable');
 var airtableTools = require('../tools/airtable-tools');
 var marked = require('marked');
-
+var fs = require('fs');
+var path = require('path');
+var moment = require('moment');
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Hello from the LL' });
+  fs.readdir('../markdown', 'utf-8', function(err, data){
+    console.log(JSON.stringify(data));
+    res.render('index', { title: 'Hello from the LL' });
+  })
 });
 
 router.get('/airtable/:id', async function(req, res, next) {
@@ -22,7 +27,15 @@ router.get('/airtable/:id', async function(req, res, next) {
 });
 
 router.get('/markdown/:id', async function (req, res, next) {
-  res.render('simple-markdown', convertedMarkdown: )
+  fs.readFile(path.join(ROOT_DIR, 'data/markdown', `${req.params.id}.md`), {encoding: 'utf-8'}, (err, data) => {
+    if (err) throw err;
+    console.log(data);
+    res.render("simple-markdown",  {
+      title: `markdown for ${req.params.id}`,
+      date: moment().format("YYYYMMDD"),
+      convertedMarkdown: marked(data)
+    });
+  });
 });
 
 
