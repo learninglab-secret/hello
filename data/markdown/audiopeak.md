@@ -17,9 +17,7 @@ Steps:
 ---
 
 Helpful command line links: 
-- [stack overflow](https://stackoverflow.com/questions/4420208/finding-audio-peaks-in-video-files)[^1]
-
-[^1]: https://stackoverflow.com/questions/4420208/finding-audio-peaks-in-video-files.
+- [stack overflow](https://stackoverflow.com/questions/4420208/finding-audio-peaks-in-video-files)
 
 `print("great job researching!")`
 
@@ -47,6 +45,6 @@ Sophie (meaning)
 }  
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwNDU1MTUyLC0yNjUwMTUyODAsLTIwNj
-IwMDg3NDJdfQ==
+eyJoaXN0b3J5IjpbLTE1ODk4NDgxMTcsMjIwNDU1MTUyLC0yNj
+UwMTUyODAsLTIwNjIwMDg3NDJdfQ==
 -->
