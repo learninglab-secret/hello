@@ -19,8 +19,10 @@ let's test it by
 and again
 
 20191003
+
+OK.  typing this at 8:33
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMDI3ODY3MywtMzI5MzUwODkyLC0xMT
-Y3NTAzNzY4LC0xNzc0NjMyNzUwLDEzODQ4NjQxMjgsLTkwNDE5
-MDM1OV19
+eyJoaXN0b3J5IjpbMTYwNTQ5MDcyNywtNjMwMjc4NjczLC0zMj
+kzNTA4OTIsLTExNjc1MDM3NjgsLTE3NzQ2MzI3NTAsMTM4NDg2
+NDEyOCwtOTA0MTkwMzU5XX0=
 -->
