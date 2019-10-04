@@ -26,7 +26,9 @@ Helpful command line links:
 ![yay](https://cdn.shopify.com/s/files/1/0080/8372/products/tattly_yay_burst_mike_lowery_00_1024x1024@2x.png =250x250)
 
 | Jad | Sophie |
-|----
+| ----------- | ----------- |
+| Class of 2020 | Class of 2021 |
+| Winthrop | Cabot |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjAzOTg0OSwtMjA2MjAwODc0Ml19
+eyJoaXN0b3J5IjpbMjAyNjU0OTY4LC0yMDYyMDA4NzQyXX0=
 -->
