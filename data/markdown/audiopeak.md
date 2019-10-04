@@ -29,6 +29,15 @@ Helpful command line links:
 | ----------- | ----------- |
 | Class of 2020 | Class of 2021 |
 | Winthrop | Cabot |
+
+` ```  
+{  
+"firstName": "John",  
+"lastName": "Smith",  
+"age": 25  
+}  
+``` `
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNjU0OTY4LC0yMDYyMDA4NzQyXX0=
+eyJoaXN0b3J5IjpbLTIxMjQ3MTQzMDAsLTIwNjIwMDg3NDJdfQ
+==
 -->
