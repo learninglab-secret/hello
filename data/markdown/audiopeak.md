@@ -18,7 +18,7 @@ Steps:
 
 Helpful command line links: 
 - [stack overflow](https://stackoverflow.com/questions/4420208/finding-audio-peaks-in-video-files)
-- FFM
+- [ffmpeg commands for converting btwn audio/video/images](https://www.tecmint.com/ffmpeg-commands-for-video-audio-and-image-conversion-in-linux/)
 
 `print("great job researching!")`
 
@@ -30,7 +30,7 @@ Helpful command line links:
 3. ~~jad's imaginary friend~~
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMTE5Nzc5MiwyNjQwMTY4MjgsLTE1OD
-k4NDgxMTcsMjIwNDU1MTUyLC0yNjUwMTUyODAsLTIwNjIwMDg3
-NDJdfQ==
+eyJoaXN0b3J5IjpbLTE2MTQ0Mjk2NzEsMjY0MDE2ODI4LC0xNT
+g5ODQ4MTE3LDIyMDQ1NTE1MiwtMjY1MDE1MjgwLC0yMDYyMDA4
+NzQyXX0=
 -->
