@@ -24,7 +24,10 @@ Helpful command line links:
 `print("great job researching!")`
 
 Important SOX functions:
-- `
+- `$ sox old.wav new.wav trim [SECOND TO START] [SECONDS DURATION]`
+	- extract parts of an audio file
+- `$ sox foo.wav -e stat`
+	- get info for an audio file (including amplitude)
 
 <img src="https://cdn.shopify.com/s/files/1/0080/8372/products/tattly_yay_burst_mike_lowery_00_1024x1024@2x.png?v=1566225019"  alt="yay"  style="width:250px;height:200px;">
 
@@ -34,7 +37,7 @@ Important SOX functions:
 3. ~~jad's imaginary friend~~
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MTE1Njg3OSw0NzgwMTU5MjEsLTE5NT
-k2NTgzNTIsMjY0MDE2ODI4LC0xNTg5ODQ4MTE3LDIyMDQ1NTE1
-MiwtMjY1MDE1MjgwLC0yMDYyMDA4NzQyXX0=
+eyJoaXN0b3J5IjpbOTE2ODIyMTksNDc4MDE1OTIxLC0xOTU5Nj
+U4MzUyLDI2NDAxNjgyOCwtMTU4OTg0ODExNywyMjA0NTUxNTIs
+LTI2NTAxNTI4MCwtMjA2MjAwODc0Ml19
 -->
