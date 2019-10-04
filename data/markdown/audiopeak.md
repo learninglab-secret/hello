@@ -16,7 +16,10 @@ Steps:
 
 ---
 
+Helpful command line links: 
+- [https://stackoverflow.com/questions/4420208/finding-audio-peaks-in-video-files](https://stackoverflow.com/questions/4420208/finding-audio-peaks-in-video-files)
 
+`<`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjIzNjY2MTNdfQ==
+eyJoaXN0b3J5IjpbMjEyNTM4MzkxOV19
 -->
