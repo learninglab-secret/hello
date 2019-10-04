@@ -23,6 +23,9 @@ Helpful command line links:
 
 `print("great job researching!")`
 
+Important SOX functions:
+- `
+
 <img src="https://cdn.shopify.com/s/files/1/0080/8372/products/tattly_yay_burst_mike_lowery_00_1024x1024@2x.png?v=1566225019"  alt="yay"  style="width:250px;height:200px;">
 
 **Contributors**
@@ -31,7 +34,7 @@ Helpful command line links:
 3. ~~jad's imaginary friend~~
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MDg3ODk0MSw0NzgwMTU5MjEsLTE5NT
+eyJoaXN0b3J5IjpbMTQ5MTE1Njg3OSw0NzgwMTU5MjEsLTE5NT
 k2NTgzNTIsMjY0MDE2ODI4LC0xNTg5ODQ4MTE3LDIyMDQ1NTE1
 MiwtMjY1MDE1MjgwLC0yMDYyMDA4NzQyXX0=
 -->
