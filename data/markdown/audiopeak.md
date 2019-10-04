@@ -23,9 +23,9 @@ Helpful command line links:
 
 `print("great job researching!")`
 
-![yay](https://cdn.shopify.com/s/files/1/0080/8372/products/tattly_yay_burst_mike_lowery_00_1024x1024@2x.png)
+![yay](https://cdn.shopify.com/s/files/1/0080/8372/products/tattly_yay_burst_mike_lowery_00_1024x1024@2x.png =250x250)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MTQ1NjkwMV19
+eyJoaXN0b3J5IjpbLTIwNjIwMDg3NDJdfQ==
 -->
