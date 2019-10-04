@@ -23,7 +23,7 @@ Helpful command line links:
 
 `print("great job researching!")`
 
-![yay](https://cdn.shopify.com/s/files/1/0080/8372/products/tattly_yay_burst_mike_lowery_00_1024x1024@2x.png?v=1566225019 =250x250)
+![yay](https://cdn.shopify.com/s/files/1/0080/8372/products/tattly_yay_burst_mike_lowery_00_1024x1024@2x.png?v=1566225019)
 
 **Contributors**
 1. Jad
@@ -47,6 +47,6 @@ Sophie (meaning)
 }  
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NzA2NDIzNywtMjY1MDE1MjgwLC0yMD
-YyMDA4NzQyXX0=
+eyJoaXN0b3J5IjpbLTE1NDA3MDkzMDQsLTI2NTAxNTI4MCwtMj
+A2MjAwODc0Ml19
 -->
