@@ -24,14 +24,19 @@ Helpful command line links:
 
 `print("great job researching!")`
 
-Important SOX functions:
+Useful functions:
 - `$ sox old.wav new.wav trim [SECOND TO START] [SECONDS DURATION]`
 	- extract parts of an audio file
 - `$ sox foo.wav -e stat`
 	- get info for an audio file (including amplitude)
 - `$ ffmpeg -i input-video.avi -vn -acodec copy output-audio.aac` 
 	- extract audio from a video file
+- ` $ ffmpeg -i input.mp4 -ss 01:10:27 -to 02:18:51 -c:v copy -c:a copy output.mp4`
+	- example of trimming a video file
 
+Potential process:
+1. extract the audio file from the video file
+2. get the stats t
 
 <img src="https://cdn.shopify.com/s/files/1/0080/8372/products/tattly_yay_burst_mike_lowery_00_1024x1024@2x.png?v=1566225019"  alt="yay"  style="width:250px;height:200px;">
 
@@ -41,8 +46,8 @@ Important SOX functions:
 3. ~~jad's imaginary friend~~
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5Njk3Mjg2OSw2NzM5MTAyMjQsOTE2OD
-IyMTksNDc4MDE1OTIxLC0xOTU5NjU4MzUyLDI2NDAxNjgyOCwt
-MTU4OTg0ODExNywyMjA0NTUxNTIsLTI2NTAxNTI4MCwtMjA2Mj
-AwODc0Ml19
+eyJoaXN0b3J5IjpbMTMwNjE5MDY4NywxMTk2OTcyODY5LDY3Mz
+kxMDIyNCw5MTY4MjIxOSw0NzgwMTU5MjEsLTE5NTk2NTgzNTIs
+MjY0MDE2ODI4LC0xNTg5ODQ4MTE3LDIyMDQ1NTE1MiwtMjY1MD
+E1MjgwLC0yMDYyMDA4NzQyXX0=
 -->
