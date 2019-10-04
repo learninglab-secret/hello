@@ -38,7 +38,10 @@ Potential process:
 1. extract the audio file from the video file
 2. get the stats for the audio file
 3. isolate the moments with maximum amplitude (or close to it?)
+	- we'll need to write a new command line program for this
 4. store those seconds & trim the video file using those seconds
+5. make that trimmed video file into a GIF
+6. upload that GIF to the Express app
 
 <img src="https://cdn.shopify.com/s/files/1/0080/8372/products/tattly_yay_burst_mike_lowery_00_1024x1024@2x.png?v=1566225019"  alt="yay"  style="width:250px;height:200px;">
 
@@ -48,8 +51,8 @@ Potential process:
 3. ~~jad's imaginary friend~~
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgzMzM1OTkyLDExOTY5NzI4NjksNjczOT
-EwMjI0LDkxNjgyMjE5LDQ3ODAxNTkyMSwtMTk1OTY1ODM1Miwy
-NjQwMTY4MjgsLTE1ODk4NDgxMTcsMjIwNDU1MTUyLC0yNjUwMT
-UyODAsLTIwNjIwMDg3NDJdfQ==
+eyJoaXN0b3J5IjpbMzY3NjM3NjY4LDg4MzMzNTk5MiwxMTk2OT
+cyODY5LDY3MzkxMDIyNCw5MTY4MjIxOSw0NzgwMTU5MjEsLTE5
+NTk2NTgzNTIsMjY0MDE2ODI4LC0xNTg5ODQ4MTE3LDIyMDQ1NT
+E1MiwtMjY1MDE1MjgwLC0yMDYyMDA4NzQyXX0=
 -->
