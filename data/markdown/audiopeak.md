@@ -9,10 +9,10 @@ Here, we'll keep track of all of our **progress** and *notes*.
 > Our plan is to find a way to scrub LL video files for audio peaks, and turn those moments into GIFs, through a command line function. Those GIFs could then automatically be uploaded to an Express App for everyone to enjoy!
 
 Steps:
-1. Research relevant command line plug-ins.
-2. Create the function!
-3. Create an Express app to upload resulting GIFs on.
-4. And, take notes the whole time!
+- [ ] Research relevant command line plug-ins.
+- [ ] Create the function!
+- [ ] Create an Express app to upload resulting GIFs on.
+- [ ] And, take notes the whole time!
 
 ---
 
@@ -30,14 +30,12 @@ Helpful command line links:
 | Class of 2020 | Class of 2021 |
 | Winthrop | Cabot |
 
-` ```  
+```  
 {  
-"firstName": "John",  
-"lastName": "Smith",  
-"age": 25  
+"bff1": "Jad",  
+"bff2": "Sophie",  
 }  
-``` `
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQ3MTQzMDAsLTIwNjIwMDg3NDJdfQ
-==
+eyJoaXN0b3J5IjpbMTUwNjI3NDkwOCwtMjA2MjAwODc0Ml19
 -->
