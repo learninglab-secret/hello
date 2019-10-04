@@ -19,7 +19,7 @@ Steps:
 Helpful command line links: 
 - [stack overflow](https://stackoverflow.com/questions/4420208/finding-audio-peaks-in-video-files)
 - [ffmpeg commands for converting btwn audio/video/images](https://www.tecmint.com/ffmpeg-commands-for-video-audio-and-image-conversion-in-linux/)
-- [Sound eXchange features ](http://sox.sourceforge.net/Docs/Features)
+- [Sound eXchange features ](http://sox.sourceforge.net/Docs/Features) 
 
 `print("great job researching!")`
 
@@ -31,7 +31,7 @@ Helpful command line links:
 3. ~~jad's imaginary friend~~
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc4MDE1OTIxLC0xOTU5NjU4MzUyLDI2ND
-AxNjgyOCwtMTU4OTg0ODExNywyMjA0NTUxNTIsLTI2NTAxNTI4
-MCwtMjA2MjAwODc0Ml19
+eyJoaXN0b3J5IjpbLTU1MDg3ODk0MSw0NzgwMTU5MjEsLTE5NT
+k2NTgzNTIsMjY0MDE2ODI4LC0xNTg5ODQ4MTE3LDIyMDQ1NTE1
+MiwtMjY1MDE1MjgwLC0yMDYyMDA4NzQyXX0=
 -->
