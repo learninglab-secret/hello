@@ -10,7 +10,13 @@ Here, we'll keep track of all of our **progress** and *notes*.
 
 Steps:
 1. Research relevant command line plug-ins.
-2. 
+2. Create the function!
+3. Create an Express app to upload resulting GIFs on.
+4. And, take notes the whole time!
+
+---
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MDkxMzAwOV19
+eyJoaXN0b3J5IjpbLTE0MjIzNjY2MTNdfQ==
 -->
