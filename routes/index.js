@@ -53,7 +53,7 @@ router.get('/:id', async function (req, res, next) {
       });
     });
   } else {
-    res.render('test', {title: "test", data: JSON.stringify(markdownFiles, null, 4)});
+    res.render('test', {title: "nothing here just yet.", data: JSON.stringify(markdownFiles, null, 4)});
   }
 });
 
