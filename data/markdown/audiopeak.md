@@ -28,23 +28,7 @@ Helpful command line links:
 2. Sophie
 3. ~~jad's imaginary friend~~
 
-| Jad | Sophie |
-| ----------- | ----------- |
-| Class of 2020 | Class of 2021 |
-| Winthrop | Cabot |
-
-Jad (meaning)
-: benevolent, generous, and merciful
-
-Sophie (meaning)
-: wisdom, insight, intelligence
-```  
-{  
-"bff1": "Jad",  
-"bff2": "Sophie",  
-}  
-```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODk4NDgxMTcsMjIwNDU1MTUyLC0yNj
-UwMTUyODAsLTIwNjIwMDg3NDJdfQ==
+eyJoaXN0b3J5IjpbMjY0MDE2ODI4LC0xNTg5ODQ4MTE3LDIyMD
+Q1NTE1MiwtMjY1MDE1MjgwLC0yMDYyMDA4NzQyXX0=
 -->
