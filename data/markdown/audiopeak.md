@@ -17,13 +17,13 @@ Steps:
 ---
 
 Helpful command line links: 
-- [https://stackoverflow.com/questions/4420208/finding-audio-peaks-in-video-files](https://stackoverflow.com/questions/4420208/finding-audio-peaks-in-video-files)
+- [stack_overflow] (https://stackoverflow.com/questions/4420208/finding-audio-peaks-in-video-files)
 
 `print("great job researching!")`
 
-![excited_image](
+![yay]([https://cdn.shopify.com/s/files/1/0080/8372/products/tattly_yay_burst_mike_lowery_00_1024x1024@2x.png](https://cdn.shopify.com/s/files/1/0080/8372/products/tattly_yay_burst_mike_lowery_00_1024x1024@2x.png?v=1566225019)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTgxNTY3Ml19
+eyJoaXN0b3J5IjpbLTM4NzI0Mjc2OV19
 -->
