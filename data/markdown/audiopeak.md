@@ -29,6 +29,9 @@ Important SOX functions:
 	- extract parts of an audio file
 - `$ sox foo.wav -e stat`
 	- get info for an audio file (including amplitude)
+- `$ ffmpeg -i input-video.avi -vn -acodec copy output-audio.aac` 
+	- extract audio from a video file
+
 
 <img src="https://cdn.shopify.com/s/files/1/0080/8372/products/tattly_yay_burst_mike_lowery_00_1024x1024@2x.png?v=1566225019"  alt="yay"  style="width:250px;height:200px;">
 
@@ -38,7 +41,8 @@ Important SOX functions:
 3. ~~jad's imaginary friend~~
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczOTEwMjI0LDkxNjgyMjE5LDQ3ODAxNT
-kyMSwtMTk1OTY1ODM1MiwyNjQwMTY4MjgsLTE1ODk4NDgxMTcs
-MjIwNDU1MTUyLC0yNjUwMTUyODAsLTIwNjIwMDg3NDJdfQ==
+eyJoaXN0b3J5IjpbMTE5Njk3Mjg2OSw2NzM5MTAyMjQsOTE2OD
+IyMTksNDc4MDE1OTIxLC0xOTU5NjU4MzUyLDI2NDAxNjgyOCwt
+MTU4OTg0ODExNywyMjA0NTUxNTIsLTI2NTAxNTI4MCwtMjA2Mj
+AwODc0Ml19
 -->
