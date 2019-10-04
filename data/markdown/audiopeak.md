@@ -19,7 +19,11 @@ Steps:
 Helpful command line links: 
 - [https://stackoverflow.com/questions/4420208/finding-audio-peaks-in-video-files](https://stackoverflow.com/questions/4420208/finding-audio-peaks-in-video-files)
 
-`<`
+`print("great job researching!")`
+
+![excited_image](
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNTM4MzkxOV19
+eyJoaXN0b3J5IjpbLTY1MTgxNTY3Ml19
 -->
