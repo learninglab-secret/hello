@@ -20,6 +20,7 @@ Helpful command line links:
 - [stack overflow](https://stackoverflow.com/questions/4420208/finding-audio-peaks-in-video-files)
 - [ffmpeg commands for converting btwn audio/video/images](https://www.tecmint.com/ffmpeg-commands-for-video-audio-and-image-conversion-in-linux/)
 - [Sound eXchange features ](http://sox.sourceforge.net/Docs/Features) 
+- [creating custom command line functions](https://medium.com/devnetwork/how-to-create-your-own-custom-terminal-commands-c5008782a78e)
 
 `print("great job researching!")`
 
@@ -37,7 +38,7 @@ Important SOX functions:
 3. ~~jad's imaginary friend~~
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE2ODIyMTksNDc4MDE1OTIxLC0xOTU5Nj
-U4MzUyLDI2NDAxNjgyOCwtMTU4OTg0ODExNywyMjA0NTUxNTIs
-LTI2NTAxNTI4MCwtMjA2MjAwODc0Ml19
+eyJoaXN0b3J5IjpbNjczOTEwMjI0LDkxNjgyMjE5LDQ3ODAxNT
+kyMSwtMTk1OTY1ODM1MiwyNjQwMTY4MjgsLTE1ODk4NDgxMTcs
+MjIwNDU1MTUyLC0yNjUwMTUyODAsLTIwNjIwMDg3NDJdfQ==
 -->
