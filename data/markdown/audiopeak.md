@@ -9,10 +9,10 @@ Here, we'll keep track of all of our **progress** and *notes*.
 > Our plan is to find a way to scrub LL video files for audio peaks, and turn those moments into GIFs, through a command line function. Those GIFs could then automatically be uploaded to an Express App for everyone to enjoy!
 
 Steps:
-- [ ] Research relevant command line plug-ins.
-- [ ] Create the function!
-- [ ] Create an Express app to upload resulting GIFs on.
-- [ ] And, take notes the whole time!
+- [ ]1. Research relevant command line plug-ins.
+- [ ]2. Create the function!
+- [ ]3. Create an Express app to upload resulting GIFs on.
+- [ ]4. And, take notes the whole time!
 
 ---
 
@@ -49,10 +49,30 @@ Potential process:
 1. Jad
 2. Sophie
 3. ~~jad's imaginary friend~~
+[^1]
 
+[^1]: https://stackoverflow.com/questions/4420208/finding-audio-peaks-in-video-files.
+
+`print("great job researching!")`
+
+![yay](https://cdn.shopify.com/s/files/1/0080/8372/products/tattly_yay_burst_mike_lowery_00_1024x1024@2x.png =250x250)
+
+| Jad | Sophie |
+| ----------- | ----------- |
+| Class of 2020 | Class of 2021 |
+| Winthrop | Cabot |
+
+` ```  
+{  
+"firstName": "John",  
+"lastName": "Smith",  
+"age": 25  
+}  
+``` `
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3NjM3NjY4LDg4MzMzNTk5MiwxMTk2OT
-cyODY5LDY3MzkxMDIyNCw5MTY4MjIxOSw0NzgwMTU5MjEsLTE5
-NTk2NTgzNTIsMjY0MDE2ODI4LC0xNTg5ODQ4MTE3LDIyMDQ1NT
-E1MiwtMjY1MDE1MjgwLC0yMDYyMDA4NzQyXX0=
+eyJoaXN0b3J5IjpbMjYxMjYxOTMwLDM2NzYzNzY2OCw4ODMzMz
+U5OTIsMTE5Njk3Mjg2OSw2NzM5MTAyMjQsOTE2ODIyMTksNDc4
+MDE1OTIxLC0xOTU5NjU4MzUyLDI2NDAxNjgyOCwtMTU4OTg0OD
+ExNywyMjA0NTUxNTIsLTI2NTAxNTI4MCwtMjA2MjAwODc0Ml19
+
 -->
