@@ -60,9 +60,6 @@ Potential process:
 2. Sophie
 	- 10/11/19 work done on LLV laptop
 3. ~~jad's imaginary friend~~
-[^1]
-
-[^1]: https://stackoverflow.com/questions/4420208/finding-audio-peaks-in-video-files.
 
 `print("great job researching!")`
 
@@ -81,9 +78,9 @@ Potential process:
 }  
 ``` `
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4OTQyOTg2MSw2MTIxMTk0ODEsMTI1MD
-U4NTYyLDI2MTI2MTkzMCwzNjc2Mzc2NjgsODgzMzM1OTkyLDEx
-OTY5NzI4NjksNjczOTEwMjI0LDkxNjgyMjE5LDQ3ODAxNTkyMS
-wtMTk1OTY1ODM1MiwyNjQwMTY4MjgsLTE1ODk4NDgxMTcsMjIw
-NDU1MTUyLC0yNjUwMTUyODAsLTIwNjIwMDg3NDJdfQ==
+eyJoaXN0b3J5IjpbLTEyODczNDE3MDIsNjEyMTE5NDgxLDEyNT
+A1ODU2MiwyNjEyNjE5MzAsMzY3NjM3NjY4LDg4MzMzNTk5Miwx
+MTk2OTcyODY5LDY3MzkxMDIyNCw5MTY4MjIxOSw0NzgwMTU5Mj
+EsLTE5NTk2NTgzNTIsMjY0MDE2ODI4LC0xNTg5ODQ4MTE3LDIy
+MDQ1NTE1MiwtMjY1MDE1MjgwLC0yMDYyMDA4NzQyXX0=
 -->
