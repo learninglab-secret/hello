@@ -58,7 +58,7 @@ Potential process:
 **Contributors**
 1. Jad
 2. Sophie
-	3. 10/11/19 work done on LLV laptop
+	- 10/11/19 work done on LLV laptop
 3. ~~jad's imaginary friend~~
 [^1]
 
@@ -81,9 +81,9 @@ Potential process:
 }  
 ``` `
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyMTE5NDgxLDEyNTA1ODU2MiwyNjEyNj
-E5MzAsMzY3NjM3NjY4LDg4MzMzNTk5MiwxMTk2OTcyODY5LDY3
-MzkxMDIyNCw5MTY4MjIxOSw0NzgwMTU5MjEsLTE5NTk2NTgzNT
-IsMjY0MDE2ODI4LC0xNTg5ODQ4MTE3LDIyMDQ1NTE1MiwtMjY1
-MDE1MjgwLC0yMDYyMDA4NzQyXX0=
+eyJoaXN0b3J5IjpbLTI4OTQyOTg2MSw2MTIxMTk0ODEsMTI1MD
+U4NTYyLDI2MTI2MTkzMCwzNjc2Mzc2NjgsODgzMzM1OTkyLDEx
+OTY5NzI4NjksNjczOTEwMjI0LDkxNjgyMjE5LDQ3ODAxNTkyMS
+wtMTk1OTY1ODM1MiwyNjQwMTY4MjgsLTE1ODk4NDgxMTcsMjIw
+NDU1MTUyLC0yNjUwMTUyODAsLTIwNjIwMDg3NDJdfQ==
 -->
