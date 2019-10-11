@@ -20,7 +20,7 @@ Helpful command line links:
 - [stack overflow](https://stackoverflow.com/questions/4420208/finding-audio-peaks-in-video-files)
 - [ffmpeg commands for converting btwn audio/video/images](https://www.tecmint.com/ffmpeg-commands-for-video-audio-and-image-conversion-in-linux/)
 - [Sound eXchange features ](http://sox.sourceforge.net/Docs/Features) 
-- [creating custom command line functions](https://medium.com/devnetwork/how-to-create-your-own-custom-terminal-commands-c5008782a78e)
+- [creating custom command line functions](https://codeburst.io/how-to-create-shortcut-commands-in-the-terminal-for-your-mac-9e016e25e4d7)
 
 `print("great job researching!")`
 
@@ -70,9 +70,9 @@ Potential process:
 }  
 ``` `
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYxMjYxOTMwLDM2NzYzNzY2OCw4ODMzMz
-U5OTIsMTE5Njk3Mjg2OSw2NzM5MTAyMjQsOTE2ODIyMTksNDc4
-MDE1OTIxLC0xOTU5NjU4MzUyLDI2NDAxNjgyOCwtMTU4OTg0OD
-ExNywyMjA0NTUxNTIsLTI2NTAxNTI4MCwtMjA2MjAwODc0Ml19
-
+eyJoaXN0b3J5IjpbMTI1MDU4NTYyLDI2MTI2MTkzMCwzNjc2Mz
+c2NjgsODgzMzM1OTkyLDExOTY5NzI4NjksNjczOTEwMjI0LDkx
+NjgyMjE5LDQ3ODAxNTkyMSwtMTk1OTY1ODM1MiwyNjQwMTY4Mj
+gsLTE1ODk4NDgxMTcsMjIwNDU1MTUyLC0yNjUwMTUyODAsLTIw
+NjIwMDg3NDJdfQ==
 -->
