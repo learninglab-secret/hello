@@ -33,6 +33,17 @@ Useful functions:
 	- extract audio from a video file
 - ` $ ffmpeg -i input.mp4 -ss 01:10:27 -to 02:18:51 -c:v copy -c:a copy output.mp4`
 	- example of trimming a video file
+- `audio="audio.wav"stats=$(sox "$audio" -n channels 1 stats -w $width 2>&1 |\  
+grep "Pk lev dB\|RMS Pk dB\|RMS Tr dB" |\  
+sed 's/[^0-9.-]*//g')peak=$(head -n 1 <<< "$stats")  
+rmsmax=$(head -n 2 <<< "$stats" | tail -n 1)  
+rmsmin=$(tail -n 1 <<< "$stats")rmsdif=$(bc <<< "scale=3; $rmsmax - $rmsmin")  
+pkmindif=$(bc <<< "scale=3; $peak - $rmsmin")echo "  
+max RMS: $rmsmax  
+min RMS: $rmsmin diff RMS: $rmsdif  
+peak-min: $pkmindif  
+"`
+	- potential finding peaks using RMS  script ([https://stackoverflow.com/questions/43415353/explanation-of-audio-stat-using-sox](https://stackoverflow.com/questions/43415353/explanation-of-audio-stat-using-sox))
 
 Potential process:
 1. extract the audio file from the video file
@@ -70,9 +81,9 @@ Potential process:
 }  
 ``` `
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MDU4NTYyLDI2MTI2MTkzMCwzNjc2Mz
-c2NjgsODgzMzM1OTkyLDExOTY5NzI4NjksNjczOTEwMjI0LDkx
-NjgyMjE5LDQ3ODAxNTkyMSwtMTk1OTY1ODM1MiwyNjQwMTY4Mj
-gsLTE1ODk4NDgxMTcsMjIwNDU1MTUyLC0yNjUwMTUyODAsLTIw
-NjIwMDg3NDJdfQ==
+eyJoaXN0b3J5IjpbLTM2ODYwODA4MSwxMjUwNTg1NjIsMjYxMj
+YxOTMwLDM2NzYzNzY2OCw4ODMzMzU5OTIsMTE5Njk3Mjg2OSw2
+NzM5MTAyMjQsOTE2ODIyMTksNDc4MDE1OTIxLC0xOTU5NjU4Mz
+UyLDI2NDAxNjgyOCwtMTU4OTg0ODExNywyMjA0NTUxNTIsLTI2
+NTAxNTI4MCwtMjA2MjAwODc0Ml19
 -->
