@@ -58,6 +58,7 @@ Potential process:
 **Contributors**
 1. Jad
 2. Sophie
+	3. work done on LLV laptop
 3. ~~jad's imaginary friend~~
 [^1]
 
@@ -80,7 +81,7 @@ Potential process:
 }  
 ``` `
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NTYwMjMyNSwxMjUwNTg1NjIsMjYxMj
+eyJoaXN0b3J5IjpbLTMwNjE3NjMyNiwxMjUwNTg1NjIsMjYxMj
 YxOTMwLDM2NzYzNzY2OCw4ODMzMzU5OTIsMTE5Njk3Mjg2OSw2
 NzM5MTAyMjQsOTE2ODIyMTksNDc4MDE1OTIxLC0xOTU5NjU4Mz
 UyLDI2NDAxNjgyOCwtMTU4OTg0ODExNywyMjA0NTUxNTIsLTI2
