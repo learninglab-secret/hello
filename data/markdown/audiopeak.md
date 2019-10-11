@@ -43,8 +43,7 @@ max RMS: $rmsmax
 min RMS: $rmsmin diff RMS: $rmsdif  
 peak-min: $pkmindif  
 "`
-	- potential finding peaks using RMS  script ([https://stackoverflow.com/questions/43415353/explanation-of-audio-stat-using-sox](https://stackoverflow.com/questions/43415353/explanation-of-audio-stat-using-sox))
-
+	- [potential finding peaks using RMS  script ](https://stackoverflow.com/questions/43415353/explanation-of-audio-stat-using-sox)
 Potential process:
 1. extract the audio file from the video file
 2. get the stats for the audio file
@@ -81,7 +80,7 @@ Potential process:
 }  
 ``` `
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODYwODA4MSwxMjUwNTg1NjIsMjYxMj
+eyJoaXN0b3J5IjpbMTA0NTYwMjMyNSwxMjUwNTg1NjIsMjYxMj
 YxOTMwLDM2NzYzNzY2OCw4ODMzMzU5OTIsMTE5Njk3Mjg2OSw2
 NzM5MTAyMjQsOTE2ODIyMTksNDc4MDE1OTIxLC0xOTU5NjU4Mz
 UyLDI2NDAxNjgyOCwtMTU4OTg0ODExNywyMjA0NTUxNTIsLTI2
