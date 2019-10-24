@@ -1,4 +1,3 @@
-
 # Hi AIE Folks!
 We are looking forward to getting to know you over the course of this year. As Marlon said, our partnership with AIE isn’t merely one among others. The students who have come to us from AIE have been sources of inspiration, skill, intellect, enthusiasm and passion. It is really not at all an exaggeration to say that AIE students, as a group, are more responsible for our practices, aesthetics, workflow and identity than any other group we’ve worked with. So we hope each of you will at least consider continuing this partnership in your own way, whether by attending an event, participating in a lab, or even applying to be a fellow.
 ##  This Fall
@@ -23,7 +22,3 @@ Wednesdays from 5-8pm we host a studioLab dedicated to the materials and structu
 - November 20th:  
 
 //related to TDM169L hackathon//
-=======
-Hi Folks! Here you can find all the haps on what's cool and hip and stuff. Come through.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qolmz4FlnZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
