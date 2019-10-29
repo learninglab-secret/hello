@@ -3,7 +3,7 @@ We are looking forward to getting to know you over the course of this year. As M
 ##  This Fall
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/boklearninglab/40846027280/in/photolist-25eqyRE-KRfH6Q-27Zaj2a-26ewGC3-GDeLKR-GDeLx6-GDeLmp-23f6iP3-GkMouT-23f6g9U-23f6fJA-23f6fpC-24URAcU-GkMmD8-HS8UvN-GkMkUx-25ZUF5H-24URz15-24URyME-HS8T2L-23f6bT9-GkMiCD-24URxYq-23f6aEY-GkMhyV-25W8jEJ-25ZUDtB-GkMgv2-25ZUDak-25ZUCZa-23f68gu-GkMeVD-23f67Jh-25ZUCmr-25W8hmW-24CMCrt-24URuCY-25ZUBPK-HS8MFf-25ZUBvZ-23f65zh-HS8LUW-GkMbge-25ZUAXV-24URsWm-25W8e8w-25ZUztH-23f61Cj-25W5vXj-25ZRVPD" title="20180530_001_AIECelloTap_Seidel_C300b_002_09253517.jpg"><img src="https://live.staticflickr.com/1746/40846027280_da8ce2673a_h.jpg" width="400" height="225" alt="20180530_001_AIECelloTap_Seidel_C300b_002_09253517.jpg"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 ### Open Studios:
-![https://ll-show.s3.amazonaws.com/public/uploads/ll_360.gif]
+
 
 ![LL name drop gif](https://ll-show.s3.amazonaws.com/public/uploads/ll_360.gif)
 
