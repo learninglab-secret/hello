@@ -1,7 +1,12 @@
 
-body { width: 100%; text-align: center; }
+body {
+  width: 100%; text-align: center;
+  background-color: #E08119;
+  font-size: 1.3em;
+}
 
 #centerContainer { width: 640px; text-align: left; margin: 0px auto; }
+
 
 
 
@@ -17,3 +22,22 @@ html {
   html.edu-hub {
     font-family: "adobe-clean",Helvetica,Arial,sans-serif;
     color: #000; }
+
+h1 {
+  font-size: 4em;
+  margin-bottom: 0px;
+}
+
+h2 {
+  font-size: 3em;
+  margin-bottom: 0px;
+}
+
+h3 {
+  font-size: 2em;
+  margin-bottom: 0px;
+}
+
+p {
+
+}
