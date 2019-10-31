@@ -1,6 +1,6 @@
 
 # Hi AIE Folks!
-![art installation in studio](https://files.slack.com/files-pri/T0HTW3H0V-FBZTG4P7X/image_from_ios.jpg)
+![art installation in studio](https://ll-show.s3.amazonaws.com/public/pods/tests/jk/studio-empty.jpg)
 
 We are looking forward to getting to know you over the course of this year. As Marlon said, our partnership with AIE isn’t merely one among others. The students who have come to us from AIE have been sources of inspiration, skill, intellect, enthusiasm and passion. It is really not at all an exaggeration to say that AIE students, as a group, are more responsible for our practices, aesthetics, workflow and identity than any other group we’ve worked with. So we hope each of you will at least consider continuing this partnership in your own way, whether by attending an event, participating in a lab, or even applying to be a fellow.
 
