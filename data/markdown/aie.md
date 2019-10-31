@@ -9,7 +9,7 @@ We are looking forward to getting to know you over the course of this year. As M
 ## Open Studios:
 
 
-![studio](https://flic.kr/p/2hwSVPo)
+![studio](https://ll-show.s3.amazonaws.com/public/pods/tests/jk/studio-making.jpg)
 
 
 **Wednesdays** from **5-8pm** we host a *studioLab* dedicated to the materials and structures of our space as learning and teaching tools. You are welcome to come through and use our space and some of our resources for making. Some weeks we will have themed work or a particular goal in mind, but you are **always welcome to come and use any of our physical materials**. We will update this page with any necessary information, so check back often!
