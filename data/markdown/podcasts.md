@@ -21,6 +21,10 @@ And here, take a listen to Ira Glass explaining the two key moves he makes when 
 
 ## Music Beds:
 
+a [really cool site](https://www.extrememusic.com/) that lets you adjust the stems of a music bed (think adjusting the keys or the drum track in isolation to get the exact feel you're hoping for!)
+
+Sam the podcasting wizard's favorite [music bed site](https://www.bensound.com/).
+
 [Link to google folder of **music beds**](https://drive.google.com/drive/folders/1KcKrPZC0WVpnE-LWoWk1MgB2y806sHs_?usp=sharing)
 
 A pretty great blog on [how to effectively use music](https://blog.spreaker.com/a-complete-guide-to-adding-the-perfect-music-and-sound-effects-to-your-podcast/) in your podcast! It includes examples which are worth checking out!
